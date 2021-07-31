@@ -135,7 +135,7 @@ To use ThingSpeak, sign up for a free developer account at [ThingSpeak][TSup].
 > // Change to your TS Write API Key         \
 > String ts_apikey        = "YOUR_API_KEY";  
 
-Next, configure the firmware "Sensei32-WiFi_AirQuality_Basic.ino" to your needs:
+Next, configure the firmware "Sensei32-WiFi_AirQuality_Advanced.ino" to your needs:
 
 a) Usage of the integrated board LED to indicate activity
 

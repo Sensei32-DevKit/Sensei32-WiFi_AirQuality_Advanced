@@ -171,7 +171,7 @@ Just upload the firmware to your Sensei32 board and enjoy!
 
 A quick demo on how to assembly the **18650 battery holder** and **pin-headers**, to use Sensei32 as a standard ESP32 DevKit:
 
-
+https://user-images.githubusercontent.com/14925798/127753445-a6b494ef-1618-491a-97d9-b52e3f882bcc.mov
 
 ## 🙏🏼 Special Thanks
 
